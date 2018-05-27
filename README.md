@@ -1,2 +1,2 @@
 # edgar-analytics
-challenge problem
+script file to compile the code and then execute it.
